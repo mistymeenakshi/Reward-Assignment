@@ -1,0 +1,36 @@
+{
+    "customer1": [
+        {
+            "month": "January",
+            "amount": 1000
+        },
+        {
+            "month": "January",
+            "amount": 700
+        },
+        {
+            "month": "February",
+            "amount": 120
+        },
+        {
+            "month": "March",
+            "amount": 1000
+        }
+
+    ],
+    "customer2": [
+        {
+            "month": "January",
+            "amount": 500
+        },
+        {
+            "month": "February",
+            "amount": 700
+        },
+        {
+            "month": "February",
+            "amount": 800
+        }
+    ]
+
+}

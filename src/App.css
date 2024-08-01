@@ -1,0 +1,34 @@
+/* app */
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.loading{
+  margin-top: 30px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 3rem;
+}
+
+th, td {
+  padding: 15px;
+}
+
+.buttonsContainer button{
+  margin-left: 1.5rem;
+}
+
+.rewards {
+  color: #888;
+}
